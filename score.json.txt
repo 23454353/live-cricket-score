@@ -1,0 +1,19 @@
+{
+  "match": "Pakistan vs India",
+  "score": {
+    "team1": {
+      "name": "Pakistan",
+      "runs": 150,
+      "wickets": 3,
+      "overs": 15.2
+    },
+    "team2": {
+      "name": "India",
+      "runs": 140,
+      "wickets": 4,
+      "overs": 15.2
+    }
+  },
+  "last_ball": "4 runs by Babar Azam",
+  "status": "Live"
+}
